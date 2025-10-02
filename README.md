@@ -1,2 +1,3 @@
 # apnacollege-demo
-This is my second repository <br> apnacollege demo <br> Author = Khushter
+This is my second repository 
+ <br> Author = Khushter
